@@ -34,3 +34,6 @@ logs.txt
 temp.png
 discuss.png
 ending.png
+
+# vagrant vm
+.vagrant
